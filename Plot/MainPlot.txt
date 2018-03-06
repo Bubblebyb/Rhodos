@@ -1,0 +1,80 @@
+1
+
+[IC]The war has raged on for many years. The Aeolians have dominated Ionia, Doris, and Macedonia at both sea and land. The year is 203 B.C.E, the Dorians have sent a small fleet to taunt Aeolian navy bases in Lesvos and then charge for Aonia – the so called “Promised Land”.
+[IC]The sun shines on Rhodos. Warriors cheer in the streets. They give their final goodbyes to the rookies poor enough to have been assigned to the fleet. They have been awarded with a feast worthy of gods. Everyone knows only a dozen people will return alive. The combined might of Aeolian and Spartan navies is too much for one fleet of recon ships. Yet, no gloom lies upon the city of Kameiros. You look down at the sand. It is wet. Quite possibly, you will be too in a few hours.
+[IC]You should get to the port, the curfew is only in a few hours, and the sailors’ quarters are a much better bed than the wet sand.
+[C]A: Stay at the Beach
+[C]B: Get to the port early
+[C]C: Join the feast in the city square.
+
+///////////////////////////
+2
+
+//A:
+[IC]The beach is alright, but time passes by fast. Before you know it, the fleet has started to send out scout boats the port. You dash to the harbor, the parade surrounding you in its blues and golds. It is sunset by the time you have arrived. There’s a chance the admiral won’t punish you, but a few other choices lay ahead.
+[C]A: Avoid the Admiral
+[C]B: Confront the Admiral
+
+//B:
+[IC]By the time you start to leave, the vanguard of the fleet is gathering at the port. You dash to the harbor, the parade surrounding you in its blues and golds. It is sunset by the time you have arrived. There’s a chance the admiral won’t punish you, but a few other choices lay ahead.
+[C]A: Avoid the Admiral
+[C]B: Confront the Admiral
+
+//C:
+[IC]By the time you get to the feast, the sailors have already left. You’re late, and punishment awaits. You dash to the harbor, the parade surrounding you in its blues and golds. It is sunset by the time you have arrived. There’s a chance the admiral won’t punish you, but a few other choices lay ahead.
+[C]A: Avoid the Admiral
+[C]B: Confront the Admiral
+
+///////////////////////////
+3
+
+//A:
+[IC]”OI!, Who are you, and what’re ya doing sneaking into the sailor’s quarters, wait you seem dressed as a sailor yourself, this sneaking around is gonna get you a punishment, just a warning”. The Admiral’s voice is rough yet slightly nonchalant. You drop a sigh of relief, sneaking around later on the journey may not be that difficult later.
+//B:
+[IC]”I applaud you honesty, we need more sailors like ya in the navy, I’ll be sure to tell the higher-ups about a small promotion, if ya know what I mean”. That was all the admiral said before walking away. It seemed clear he didn’t have the courage to bond together a crew, and so depended on trust. The sky is now completely dark, maybe a night’s sleep will make you less anxious tomorrow.
+
+///////////////////////////
+4
+
+[IC]-The Next Day- 
+
+[IC]The conch horns blow in the distance. Flames line the horizon from your window. The creaking sound of siege engines rattle the cabins. Just a few miles beyond the shore, ships with red banners have formed a wall around the harbor of Kameiros. The Spartans have decided to attack the city. You hear the admiral’s voice outside, rallying a few ships to attack the blockade.
+[C]A: Join the effort to repel the blockade
+[C]B: Try to hide in you cabin
+
+///////////////////////////
+5
+
+//A:
+[IC]Several biremes on the dock are burning, the remains of fishing boats float across the waters. The city seems to be in total chaos. In the middle of it all, the Admiral leads a group of stragglers constantly shooting arrows at the Spartan blockade. Suddenly, the Admiral sees you. “OI, uh, what was your name again?
+[C]Enter your name
+[IC]”Oh, you’re , well I’ll keep note of that”. The Admiral then hands you a small gastraphetes, a portable crossbow. “Just fire at an angle towards those warships, that’s all you need to do”.
+
+[IC]Its sunset now and the Spartan ships have started to retreat, their archers slowing down and holding up shields. Reinforcements have finally arrived and you can see the Admiral rolling a oxybeles, a small bolt shooter towards you. “The blockade has nearly ended, now let’s make sure those damn Spartans never come back”. 
+
+[IC]Night has fallen and you are finally getting into bed again. The fleet’s launch has been postponed.
+[IC]Thump,Thump 
+[IC]There’s a knock on your door. A sailor steps in. “The Admiral has asked to see you, he’ll be in his cabin” he says before leaving.
+
+[C]A: Go see the Admiral
+[C]B: Go to sleep
+
+//B:
+[IC]This safety does not last long. A patrol knocks on your door before breaking in. “You! there’s a blockade outside, why aren’t you outside fighting! This is nearly treasonous, this is betrayal!”. The guard leaves you alone in your room, swearing loudly in the halls. You manage to avoid being caught for the rest of the day but hoplites drag you off the next morning. Wartime punishments are unusually rough…
+
+[BC]Ending 1: Execution Unlocked
+
+///////////////////////////
+6
+
+//A:
+[IC]”You’ve proven yourself as a courageous soldier [PlayerName] " the Admiral says in a stern voice. "The siege those Spartans attempted, It left a brutal mark on the town. Nearly half the fleet was destroyed, all we have left is a few scouting Biremes and a single Trieme as our flagship. Our plan is in tatters, and there's no going back now. My entire family was killed at the Battle of Cyme, the Aegean Civil War was truly a brutal one. The only thing I want in life is revenge against those damned Aeolians. Anyways, we can only bring a thousand men, opposed to the five thousand we planned for. I have chosen you for second in command on the ship Ilikía, that is all, good night".
+
+[IC]The wind blows through the windows while you return to your cabin. The knowledge the Admiral has given you haunts you now. You only graduated from training three months ago, there was no way you would be able to manage a ship. Your willpower remains strong, however, and you force yourself to sleep and prepare for the next day.
+
+//B:
+[IC]
+
+
+
+
