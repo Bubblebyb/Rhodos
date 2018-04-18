@@ -1,2 +1,3 @@
 # Rhodos
-#### An interactive text-based `RPG` based on Ancient Greek History
+#### An `IF` or `Interactive Fiction` game based on Ancient Greek History
+#### Updates every week on Tuesday

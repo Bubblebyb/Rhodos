@@ -12,7 +12,7 @@ html {
 
 body {
 	color: #eee;
-	font-family: Roboto Mono;
+	font-family: Roboto Mono, monospace;
 	text-align: center;
 }
 
@@ -47,7 +47,7 @@ body {
 	border: none;
 	border-radius: 15px;
 	box-shadow: 0 9px #999;
-	font-family: Uncial Antiqua, sans-serif
+	font-family: sans-serif
 }
 
 .button:hover {
@@ -74,11 +74,11 @@ body {
 	box-shadow: 0 9px #999;
 }
 
-.button:hover {
+.button2:hover {
 	opacity: 1
 }
 
-.button:active {
+.button2:active {
 	box-shadow: 0 5px #666;
 	transform: translateY(4px);
 }
@@ -89,6 +89,7 @@ body {
 
 #startbutton {
 	margin: 2em;
+	font-family:  Uncial Antiqua, serif;
 }
 
 .wrapper {
@@ -116,8 +117,8 @@ p {
 	position: relative;
 	overflow: hidden;
 	margin: 0 0;
-	font-family: Uncial Antiqua;
-	font-size: 43px;
+	font-family: sans-serif;
+	font-size: 50px;
 	font-weight: 600;
 	line-height: 50px;
 	text-transform: uppercase;
